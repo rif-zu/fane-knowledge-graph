@@ -1,1 +1,4 @@
 # fane-knowledge-graph
+Fane-KG is a semantic knowledge graph comprising of social data (tweets and an exhaustive list of related metadata based on Twitter object and user properties) from Twitter that has been classified as either fake or real tweets. The RDF data can be stored in any interoperable graph database and queried via a SPARQL endpoint. The data store provides an opportunity for researchers and data scientists to query the data semantically and derive latent (or hidden) knowledge based on inferencing and reasoning rules. Consequently, further research and opportunities can be explored towards addressing social media challenges such as fake news detection and identity resolution.
+
+The knowledge graph can be downloaded from the following URL: https://drive.google.com/drive/folders/1HhHbIr422yhhwJDHuKPe838tJHceXCCt?usp=sharing
